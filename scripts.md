@@ -2,7 +2,7 @@ SCRIPTS
 
 ------------------------------
 
-Mains:
+Pipeline:
 - To automatically compute the ranked list starting from the dataset: 
   https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/rank_dataset.sh
   
