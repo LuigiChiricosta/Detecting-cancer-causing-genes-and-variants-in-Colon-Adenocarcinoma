@@ -3,12 +3,7 @@ SCRIPTS
 ------------------------------
 
 Pipeline:
-- To automatically compute the ranked list starting from the dataset: 
-  https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/rank_dataset.sh
-  
-- To automatically compute the ranked list starting from the 1000 Genomes Project dataset: 
-  https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/rank_1kg.sh
-  
+
 - To annotate the mutations using ANNOVAR:
   https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/annovar_annotation.sh
   
@@ -21,6 +16,12 @@ Pipeline:
 - To compute the Fisher's Exact Test:
   https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/fisher_exact_test.py
   
+- To automatically compute the ranked list starting from the dataset: 
+  https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/rank_dataset.sh
+  
+- To automatically compute the ranked list starting from the 1000 Genomes Project dataset: 
+  https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/rank_1kg.sh
+  
 - To compute correlation score among two files:
   https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/compute_correlations.py
   
@@ -28,7 +29,7 @@ Pipeline:
 
 Others:
 
-- To compute boxplot or histogram: 
+- To compute boxplot or histogram representations: 
   https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/compute_plots.py
 
 - To compute a full join of two lists based on the first colum:
